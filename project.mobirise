@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-09_0037-clone",
-    "currentPage": "index.html",
+    "currentPage": "SHOP.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1363,7 +1363,7 @@
         }
       ]
     },
-    "SHOP .html": {
+    "SHOP.html": {
       "settings": {
         "meta_descr": "SHOP ALL",
         "title": "SHOP",
